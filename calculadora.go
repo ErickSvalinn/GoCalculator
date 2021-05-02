@@ -41,7 +41,7 @@ func parsear(entrada string) int {
 }
 
 // Lee desde consola
-func leerEntrada(mensaje string) string {
+func LeerEntrada(mensaje string) string {
 	// Muestra mensaje
 	fmt.Print(mensaje)
 
